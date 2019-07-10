@@ -1,1 +1,1 @@
-{"file":{"path":"testCad.dwg"}}
+{"file":{"path":"test.txt"}}
