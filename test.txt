@@ -1,0 +1,6 @@
+------WebKitFormBoundarypC3pyNbLM1jcxAuP
+Content-Disposition: form-data; name="name"; filename="test.txt"
+Content-Type: text/plain
+
+test file for dnd and git ...awefawefawef
+------WebKitFormBoundarypC3pyNbLM1jcxAuP--
